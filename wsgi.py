@@ -1,0 +1,1 @@
+from lung_cancer_api import api as application
